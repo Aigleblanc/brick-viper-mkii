@@ -5,6 +5,8 @@ Liste des bricks pour le set Viper Mk II
 
 28802 : 2436  
 
+## Les bricks a ajouter a la liste Gobrick
+
 298c02 (2x) : https://rebrickable.com/parts/298c02/lever-small-base-with-black-lever/  
 GDS-1317-090 (2x)  
 GDS-1316-080 (2x)  
