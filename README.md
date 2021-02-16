@@ -16,11 +16,11 @@ GDS-821-072 (2x)
 
 ## Les bricks qui n'existent pas chez gobrick
 
-45590 : https://rebrickable.com/parts/45590/technic-axle-connector-double-flexible-rubber/  
-88704 : https://rebrickable.com/parts/88704/equipment-whip-bent/  
-90498 : https://rebrickable.com/parts/90498/tile-8-x-16-with-bottom-tubes/  
-42114 : https://rebrickable.com/parts/42114/weapon-lightsaber-hilt-angled/  
-18922 : https://rebrickable.com/parts/18922/brick-special-8-x-16-with-1-x-4-indentations-and-1-x-4-plate/  
+45590 (3x) : https://rebrickable.com/parts/45590/technic-axle-connector-double-flexible-rubber/  
+88704 (2x) : https://rebrickable.com/parts/88704/equipment-whip-bent/  
+90498 (1x) : https://rebrickable.com/parts/90498/tile-8-x-16-with-bottom-tubes/  
+42114 (1x) : https://rebrickable.com/parts/42114/weapon-lightsaber-hilt-angled/  
+18922 (2x) : https://rebrickable.com/parts/18922/brick-special-8-x-16-with-1-x-4-indentations-and-1-x-4-plate/  
 93555 (8x) : https://rebrickable.com/parts/93555/sports-ice-skate/  
 60849 (2x) : https://rebrickable.com/parts/60849/equipment-hose-nozzle-with-side-string-hole-simplified/71/  
 32086 (1x) : https://rebrickable.com/parts/32086/windscreen-8-x-6-x-3-wedge/40/  
