@@ -30,6 +30,7 @@ GDS-821-072 (2x)
 18922 (2x) : https://rebrickable.com/parts/18922/brick-special-8-x-16-with-1-x-4-indentations-and-1-x-4-plate/  
 93555 (8x) : https://rebrickable.com/parts/93555/sports-ice-skate/  
 60849 (2x) : https://rebrickable.com/parts/60849/equipment-hose-nozzle-with-side-string-hole-simplified/71/  
+https://www.lego.com/fr-fr/page/static/pick-a-brick?query=60849&page=1  
 85975 (2x) : https://rebrickable.com/parts/85975/cone-117-x-117-x-23-fez/  
 62361 (1x) : https://rebrickable.com/parts/62361/mudguard-1-12-x-6-x-1-arch-extended/  
 93604 (2x) : https://rebrickable.com/parts/93604/slope-curved-3-x-4-x-23-triple-curved-with-2-sunk-studs/  
