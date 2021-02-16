@@ -1,11 +1,16 @@
 # brick-viper-mkii
 Liste des bricks pour le set Viper Mk II
 
+Viper Part unknow.xml : Fichier listant les pieces a acheter sur Bricklink  
+rebrickable_parts_viper-mk2-stand-v03.csv : Fichier listant les pieces a acheter sur Gobrick
+
 ## Les bricks remplacées
 
 28802 : 2436  
 
-## Les bricks a ajouter a la liste Gobrick
+## Les bricks a ajouter a la liste Gobrick apres exportation
+
+https://gobricks.cn/#/toolkit
 
 298c02 (2x) : https://rebrickable.com/parts/298c02/lever-small-base-with-black-lever/  
 GDS-1317-090 (2x)  
