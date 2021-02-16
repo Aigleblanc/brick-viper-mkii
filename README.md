@@ -24,12 +24,12 @@ GDS-821-072 (2x)
 93555 (8x) : https://rebrickable.com/parts/93555/sports-ice-skate/  
 60849 (2x) : https://rebrickable.com/parts/60849/equipment-hose-nozzle-with-side-string-hole-simplified/71/  
 32086 (1x) : https://rebrickable.com/parts/32086/windscreen-8-x-6-x-3-wedge/40/  
-85975 (2x) (couleur ? ) : https://rebrickable.com/parts/85975/cone-117-x-117-x-23-fez/  
-62361 (1x) (couleur ? ) : https://rebrickable.com/parts/62361/mudguard-1-12-x-6-x-1-arch-extended/  
-93604 (2x) (couleur ? ) : https://rebrickable.com/parts/93604/slope-curved-3-x-4-x-23-triple-curved-with-2-sunk-studs/  
-35787 (2x) (couleur ? ) : https://rebrickable.com/parts/35787/tile-45-cut-2-x-2/  
-35459 (2x) (couleur ? ) : https://rebrickable.com/parts/35459/tile-special-1-x-3-inverted-with-center-hole/  
-4732  (2x) (couleur ? ) : https://rebrickable.com/parts/4732/bracket-8-x-2-x-1-13/  
+85975 (2x) : https://rebrickable.com/parts/85975/cone-117-x-117-x-23-fez/  
+62361 (1x) : https://rebrickable.com/parts/62361/mudguard-1-12-x-6-x-1-arch-extended/  
+93604 (2x) : https://rebrickable.com/parts/93604/slope-curved-3-x-4-x-23-triple-curved-with-2-sunk-studs/  
+35787 (2x) : https://rebrickable.com/parts/35787/tile-45-cut-2-x-2/  
+35459 (2x) : https://rebrickable.com/parts/35459/tile-special-1-x-3-inverted-with-center-hole/  
+4732  (2x) : https://rebrickable.com/parts/4732/bracket-8-x-2-x-1-13/  
 
 ## Bricks speciales
 
@@ -37,4 +37,3 @@ GDS-821-072 (2x)
 3039pr0002 : ( remplacent : 3039 ) : https://rebrickable.com/parts/3039pr0002/slope-45-2-x-2-with-radar-and-disk-slot-print/n  
 3070bpr0103 (2x) : ( remplacent : 3070b ) : https://rebrickable.com/parts/3070bpr0103/tile-1-x-1-with-gray-polygons-print/  
 98138pr0020 (2x) : ( remplacent : 98138 ) : https://rebrickable.com/parts/98138pr0020/tile-round-1-x-1-with-republic-symbol-print/  
-
