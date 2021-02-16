@@ -5,15 +5,17 @@ Liste des bricks pour le set Viper Mk II
 
 28802 : 2436  
 
-298c02 : https://rebrickable.com/parts/298c02/lever-small-base-with-black-lever/  
-GDS-1317-090
-GDS-1316-080
+298c02 (2x) : https://rebrickable.com/parts/298c02/lever-small-base-with-black-lever/  
+GDS-1317-090 (2x)  
+GDS-1316-080 (2x)  
+
+54657 (2x) : https://rebrickable.com/parts/54657/hinge-plate-1-x-2-locking-with-2-fingers-on-end-without-groove-7-teeth/  
+GDS-821-072 (2x)  
 
 ## Les bricks qui n'existent pas chez gobrick
 
 45590 : https://rebrickable.com/parts/45590/technic-axle-connector-double-flexible-rubber/  
 88704 : https://rebrickable.com/parts/88704/equipment-whip-bent/  
-54657 : https://rebrickable.com/parts/54657/hinge-plate-1-x-2-locking-with-2-fingers-on-end-without-groove-7-teeth/  
 90498 : https://rebrickable.com/parts/90498/tile-8-x-16-with-bottom-tubes/  
 42114 : https://rebrickable.com/parts/42114/weapon-lightsaber-hilt-angled/  
 18922 : https://rebrickable.com/parts/18922/brick-special-8-x-16-with-1-x-4-indentations-and-1-x-4-plate/  
