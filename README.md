@@ -27,7 +27,7 @@ Liste des bricks pour le set Viper Mk II
 ## Bricks speciales
 
 2431pr0017 (8x) ( 2431 yellow 744) : https://rebrickable.com/parts/2431pr0017/tile-1-x-4-with-black-diagonal-stripes-print/  
-3039pr0002 : ( remplacent : 3039 ) : https://rebrickable.com/parts/3039pr0002/slope-45-2-x-2-with-radar-and-disk-slot-print/n
-3070bpr0103 (2x) : ( remplacent : 3070b ) : https://rebrickable.com/parts/3070bpr0103/tile-1-x-1-with-gray-polygons-print/
-98138pr0020 (2x) : ( remplacent : 98138 ) : https://rebrickable.com/parts/98138pr0020/tile-round-1-x-1-with-republic-symbol-print/
+3039pr0002 : ( remplacent : 3039 ) : https://rebrickable.com/parts/3039pr0002/slope-45-2-x-2-with-radar-and-disk-slot-print/n  
+3070bpr0103 (2x) : ( remplacent : 3070b ) : https://rebrickable.com/parts/3070bpr0103/tile-1-x-1-with-gray-polygons-print/  
+98138pr0020 (2x) : ( remplacent : 98138 ) : https://rebrickable.com/parts/98138pr0020/tile-round-1-x-1-with-republic-symbol-print/  
 
