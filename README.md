@@ -52,6 +52,9 @@ https://www.bricklink.com/v2/catalog/catalogitem.page?P=2431p52&C=3#T=C&C=3
 https://rebrickable.com/parts/3039pr0002/slope-45-2-x-2-with-radar-and-disk-slot-print/  
 https://www.bricklink.com/v2/catalog/catalogitem.page?P=3039pb041&C=11#T=C&C=11  
 
+alternative : Lego.com : ROOF TILE 2X2/45° "NO. 18" Element 6083346 Par Design Id 18433 Prix à l'unité EUR 0.49  
+
+
 3070bpr0103 (2x) : ( remplacent : 3070b ) : 
 https://rebrickable.com/parts/3070bpr0103/tile-1-x-1-with-gray-polygons-print/  
 https://www.bricklink.com/v2/catalog/catalogitem.page?P=3070bpb123&C=11#T=C&C=11
