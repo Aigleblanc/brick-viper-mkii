@@ -4,20 +4,9 @@ Liste des bricks pour le set Viper Mk II
 Viper Part unknow.xml : Fichier listant les pieces a acheter sur Bricklink  
 rebrickable_parts_viper-mk2-stand-v03.csv : Fichier listant les pieces a acheter sur Gobrick
 
-## Les bricks remplacées
-
-28802 : 2436  
-
-## Les bricks a ajouter a la liste Gobrick apres exportation
+## Lien d'importation de la liste.
 
 https://gobricks.cn/#/toolkit
-
-298c02 (2x) : https://rebrickable.com/parts/298c02/lever-small-base-with-black-lever/  
-GDS-1317-090 (2x)  
-GDS-1316-080 (2x)  
-
-54657 (2x) : https://rebrickable.com/parts/54657/hinge-plate-1-x-2-locking-with-2-fingers-on-end-without-groove-7-teeth/  
-GDS-821-072 (2x)  
 
 ## Les bricks qui n'existent pas chez gobrick ( Wanted List sur Bricklink )
 
@@ -42,7 +31,7 @@ https://rebrickable.com/parts/98138pr0020/tile-round-1-x-1-with-republic-symbol-
 https://www.bricklink.com/v2/catalog/catalogitem.page?P=98138pb020&C=86#T=C&C=86
 
 
-### Trouvé sur sur Lego.com
+## Les pices a acheter sur Lego.com
 
 45590 (3x) : https://rebrickable.com/parts/45590/technic-axle-connector-double-flexible-rubber/ 
 88704 (2x) : https://rebrickable.com/parts/88704/equipment-whip-bent/  
@@ -64,3 +53,9 @@ alternative : Lego.com : ROOF TILE 2X2/45° "NO. 18" Element 6083346 Par Design 
 https://rebrickable.com/parts/3039pr0002/slope-45-2-x-2-with-radar-and-disk-slot-print/  
 https://www.bricklink.com/v2/catalog/catalogitem.page?P=3039pb041&C=11#T=C&C=11  
 
+298c02 (2x) : https://rebrickable.com/parts/298c02/lever-small-base-with-black-lever/  
+GDS-1317-090 (2x)  
+GDS-1316-080 (2x)  
+
+54657 (2x) : https://rebrickable.com/parts/54657/hinge-plate-1-x-2-locking-with-2-fingers-on-end-without-groove-7-teeth/  
+GDS-821-072 (2x)  
